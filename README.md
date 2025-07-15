@@ -1,13 +1,35 @@
-# React + Vite
+# 🌦️ Weather App 
+   A simple and responsive Weather Application built with React that shows real-time weather information of any city using a weather API (like OpenWeatherMap).
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# ✨ Features
+   ⚛️ React.js (Frontend)
+  🎨 CSS / TailwindCSS for styling
+  🌐 Weather API (e.g., OpenWeatherMap)
 
-Currently, two official plugins are available:
+# 📦 Installation & Setup
+  Follow these steps to run the app locally:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1️⃣ Clone the repository
 
-## Expanding the ESLint configuration
+git clone https://github.com/nitinpatil4/weather-app.git
+    cd weather-app
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Weather-App
+2️⃣ Install dependencies
+    npm install
+
+3️⃣ Add your API key
+    Create a .env file in the root directory.
+    Add your API key like this:
+    REACT_APP_WEATHER_API_KEY=your_api_key_here
+
+4️⃣ Run the development server
+    npm 
+
+
+# 🌍 Live Demo
+    👉 https://melodic-sorbet-6d8d5b.netlify.app ✅
+
+# 📸 Screenshots
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/d45f635a-b6a1-4d08-acc4-185797f56395" />
+
+
